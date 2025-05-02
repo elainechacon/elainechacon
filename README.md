@@ -1,12 +1,6 @@
 # 👩🏻‍💻 Elaine Chacon
 
-- Estudante de **Análise e Desenvolvimento de Sistemas** (penúltimo ano), em transição de carreira após uma sólida experiência em Arquitetura e Design de Interiores.
-
-- Atualmente, desenvolvo habilidades em **HTML, CSS, JavaScript**,**Java**, **POO** e **banco de dados**, unindo visão analítica e organização de projetos à tecnologia
-
-- Exploro também conceitos de **Inteligência Artificial**, buscando criar soluções eficientes, inteligentes e inovadoras.
-
-- Tenho interesse em sistemas que integrem estética, usabilidade e desempenho, conectando **criatividade, lógica e propósito**.
+- Penultimo ano de **Análise e Desenvolvimento de Sistemas**
 
 ## 🤖 Tecnologias e Ferramentas
 
